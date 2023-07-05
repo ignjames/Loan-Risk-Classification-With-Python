@@ -3,6 +3,7 @@ A P2P Lending Application Company gave a task to a data scientist to make a mach
 
 ## Dataset Overview
 A little **summary** of this dataset: 
+- The data contains 466285 rows.
 - Based on the application type, this is a loan for individual data.
 - There are 75 features originally.
 - 17 empty features (100% null value).
